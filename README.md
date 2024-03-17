@@ -1,8 +1,8 @@
-### 金多祿的網站
+# 金多祿的網站
 
 ## Hello  👋
 
-# 這是我第一個在github建立的網站，用來紀錄我的日常喜好，例如烹飪，遊戲，或者部落格，作為怨氣宣洩的出口等等......
+### 這是我第一個在github建立的網站，用來紀錄我的日常喜好，例如烹飪，遊戲，或者部落格，作為怨氣宣洩的出口等等......
 
 <!--
 **KimTorLook/KimTorLook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
